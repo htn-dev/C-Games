@@ -1,6 +1,6 @@
 //Importing the inbuild libraries in CPP
 
-#include <iostream>
+#include <ostream>
 #include <stdlib.h>
 using namespace std;
 //Array for the board
