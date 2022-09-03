@@ -1,7 +1,7 @@
 //Importing the inbuild libraries in CPP
 
 #include <iostream>
-#inlude <stdlib.h>
+#include <stdlib.h>
 using namespace std;
 //Array for the board
 char board[3][3] = {{'1','2','3'},{'4','5','6'},{'7','8','9'}};
