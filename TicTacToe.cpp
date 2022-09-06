@@ -10,7 +10,7 @@ int choice;
 int row,column;
 char turn = 'X';
 bool draw = false;
- 
+  
 //Function to show the current status of the gaming board
 
 void display_board(){
