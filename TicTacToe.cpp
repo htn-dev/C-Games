@@ -14,6 +14,7 @@ bool draw = false;
 //Function to show the current status of the gaming board
 
 void display_board(){
+     
     //Rander Game Board LAYOUT
 
     cout<<"PLAYER - 1 [X]t PLAYER - 2 [O]nn";
