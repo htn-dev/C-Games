@@ -13,7 +13,8 @@ bool draw = false;
      
 //Function to show the current status of the gaming board
 
-void display_board(){
+void display_board()
+{
      
     //Rander Game Board LAYOUT
 
